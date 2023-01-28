@@ -1,6 +1,6 @@
-- 👋 Hi, I’m DzungLe
+- 👋 Hi, I’m Tuan Dung Le
 - 👀 I’m interested in Natural Language Processing, Computer Vision
-- 🌱 I’m currently PhD student
+- 🌱 I’m currently PhD student in Computer Science at USF
 
 <!---
 - 💞️ I’m looking to collaborate on ...
